@@ -1,0 +1,14 @@
+.container{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-family: "Times New Roman";
+  align-self: center;
+  height: 85vh;
+}
+.about-me{
+  animation: slide-in 1.5s ease; /* Apply the animation */
+}
+.description{
+  animation: slide-out 1.5s ease; /* Apply the animation */
+}

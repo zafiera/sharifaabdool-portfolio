@@ -1,0 +1,13 @@
+.work-header {
+  padding: 15px 15px 25px;
+  animation: slide-down 1.5s ease;
+}
+.work{
+  font-family: "Times New Roman";
+}
+.card.one{
+  animation: slide-in 1.5s ease; /* Apply the animation */
+}
+.card.two{
+  animation: slide-out 1.5s ease; /* Apply the animation */
+}

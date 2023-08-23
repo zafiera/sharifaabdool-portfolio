@@ -1,0 +1,14 @@
+.navbar-nav{
+  font-style: italic;
+  font-weight: bolder;
+  font-family: "Times New Roman";
+  text-decoration: underline;
+}
+.navbar-nav a:hover{
+  color: slategray;
+}
+.container{
+  font-weight: bolder;
+  font-family: "Times New Roman";
+  font-style: italic;
+}

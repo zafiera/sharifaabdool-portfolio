@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/sharifaabdool-portfolio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
